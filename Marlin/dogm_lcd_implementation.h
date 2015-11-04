@@ -25,7 +25,7 @@
 #include "DOGMbitmaps.h"
 #include "dogm_font_data_marlin.h"
 #include "ultralcd.h"
-
+#include "ultralcd_st7920_u8glib_rrd.h"
 
 /* Russian language not supported yet, needs custom font
 
